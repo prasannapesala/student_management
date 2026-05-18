@@ -1,0 +1,25 @@
+# Student Management System
+
+A PHP and MySQL based web application for managing students, attendance, complaints, subjects, and leave requests.
+
+## Features
+- Student Login
+- Teacher Dashboard
+- Complaint Management
+- Attendance Tracking
+- Leave Requests
+
+## Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- XAMPP
+
+## Setup Instructions
+1. Install XAMPP
+2. Copy project folder into htdocs
+3. Import student_connect.sql into phpMyAdmin
+4. Start Apache and MySQL
+5. Open localhost/TERM
